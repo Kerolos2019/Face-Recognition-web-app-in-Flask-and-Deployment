@@ -3,6 +3,7 @@
 
 In this project we have our image dataset which consists of human faces , we will do
 some processes :
+
 1)Detecting the faces
 
 1-Detecting Faces using harcascaded classifier
