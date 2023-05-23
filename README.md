@@ -25,4 +25,4 @@ some processes :
   2-using PCA to extract features from faces and get the numerical python array
 
 
-4) Machine Learning Model and Deployment
+) Machine Learning Model and Deployment
